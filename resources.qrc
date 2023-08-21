@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/add.png</file>
+        <file>icons/align_justify-96.png</file>
+        <file>icons/arrow-down-b.png</file>
+        <file>icons/arrow-up-b.png</file>
+        <file>icons/buffer_0.png</file>
+        <file>icons/inspection-96.png</file>
+        <file>icons/microsoftoffice2007excel.png</file>
+        <file>icons/Play.png</file>
+        <file>icons/remove.png</file>
+        <file>icons/settings.png</file>
+        <file>icons/Seanau-Email-Clear.ico</file>
+        <file>icons/back.jpg</file>
+    </qresource>
+</RCC>
